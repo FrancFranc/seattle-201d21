@@ -9,8 +9,8 @@
     "jquery": true
   },
   "rules": {
-    semi: [2, "always"],
-    no-undefined: 2,
+    "semi": [2, "always"],
+    "no-undefined": 2,
     "indent": [2, 2],
     "quotes": [1, "single"],
     "no-multi-spaces": [1, {
