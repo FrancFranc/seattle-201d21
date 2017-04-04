@@ -1,5 +1,10 @@
 # Code 201: Foundations of Software Development
 
+[![](https://img.shields.io/badge/YouTube-201d21-red.svg)](https://www.youtube.com/playlist?list=PLVngfM2hsbi-n7VF4U9KjaJF1nMSE0vkn)
+[![](https://img.shields.io/badge/canvas-201d21-blue.svg)](https://canvas.instructure.com/courses/1139959/modules)
+[![](https://img.shields.io/badge/slack-201d21-orange.svg)](https://codefellows.slack.com/messages/C4J0Z73A7/)
+
+
 Welcome to Code 201! This is a class that builds on your foundational knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the deep dive of any Code 301 class.
 
 # Introduction
