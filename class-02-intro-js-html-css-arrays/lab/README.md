@@ -30,8 +30,8 @@ As a developer, I want to provide five questions to the user, so that they can g
 
 ### Technical Requirements for "About Me"
 
-- A new GitHub repo called `about_me` will be initialized for this assignment (with a README and a license, of course)
-- Clone this repo to the root level of your `~/codefellows/201/` directory on your computer.
+- A new GitHub repo called `lab-02-about-me` will be initialized for this assignment (with a README and a license, of course)
+- Clone this repo to the root level of your `~/cf/201` directory on your computer.
 - Add an `index.html` file, a `style.css` file, and an `app.js` file to your repo, and get the files "wired up together" so to speak.
 - HTML, CSS, and JavaScript must be cleanly written with correct indentation and syntax. Look at examples online and in your textbook. Note that your JS must pass the rules in the linter that we installed.
 - Your JS file contains a 'use strict' declaration at the top. Always.
