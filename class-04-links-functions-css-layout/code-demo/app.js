@@ -1,6 +1,6 @@
 'use strict';
 
-function sayHello(){
+function sayHello() {
   console.log('hello yo');
   return 100;
 }
@@ -17,7 +17,6 @@ function getUsername(){
 
 var user = getUsername();
 console.log('user value is', user);
-
 
 // variables are function scoped
 function coolBeans(){
