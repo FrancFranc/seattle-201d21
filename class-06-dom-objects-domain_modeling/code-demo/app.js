@@ -13,7 +13,7 @@ var groceryList = {
 // set the title of the page (the h1 tag with id="title")
 var heading = document.getElementById('title');
 heading.textContent = groceryList.title;
-heading.setAttribute('class', 'title')
+heading.setAttribute('class', 'title');
 
 var ingredientsUl = document.getElementById('ingredients');
 
@@ -29,18 +29,5 @@ for (var i = 0; i < groceryList.items.length; i++ ){
   ingredientLi.textContent = groceryList.items[i];
   ingredientsUl.appendChild(ingredientLi);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 console.log('shark in the dark!');
