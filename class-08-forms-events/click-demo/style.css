@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+}
+
+#inc-button {
+  background-color: yellow;
+  display:  inline-block;
+  width: auto;
+  padding: 2px;
+  border-radius: 2px;
+}
+
+#inc-button:hover {
+  background-color: orange;
+}
+
+#inc-button:active {
+  background-color: magenta;
+}
