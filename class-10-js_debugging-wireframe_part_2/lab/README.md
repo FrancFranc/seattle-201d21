@@ -56,4 +56,3 @@ OPTIONAL: Add some JavaScript functionality! Get creative, but make sure the sty
 
 Submit: You'll be committing regularly and working on branches for additional Git practice. Submit the link to your most recent pull request into the Canvas assignment.
 
-### Remember, this assignment is due at 4:59p this afternoon, Friday 7/29!!!
