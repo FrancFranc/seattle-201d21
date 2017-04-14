@@ -1,0 +1,36 @@
+* {
+  width:  100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: beige;
+
+}
+
+.app {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  background-color: white;
+}
+
+.saying {
+  position: static;
+  display: inline-block;
+  width: auto;
+}
+
+.green-highlight {
+  background-color: #0f0;
+}
