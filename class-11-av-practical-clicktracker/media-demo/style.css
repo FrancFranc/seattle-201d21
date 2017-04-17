@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px dotted blue;
+}
+
+html, body {
+  height: 100%;
+}
+
+.app {
+  height: 100%;
+  width: 960px;
+  margin:  0 auto;
+}
+
+.delicious-header {
+  position: fixed;
+
+    height: 10%;
+    width: 25%;
+    right: 0;
+
+}
+
+.delicious-header img {
+    display: inline-block;
+    height: 100%;
+    width: auto;
+    float: left;
+}
+
+.delicious-title {
+    display: inline-block;
+    width: 150px;
+    height: 100%;
+    background: blue;
+    float: left;
+}
+
+.social-container {
+  height: 100%;
+  width: 200px;
+  float: right;
+  background: red;
+}
+
+.social-container ul, .social-container li{
+  height: 100%;
+}
+
+.social-container  img {
+  height: 50%;
+  width: auto;
+  margin-top: 50  %;
+}
+.social-container  li {
+  display: inline-block;
+  width: auto;
+  list-style: none ;
+  float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* wat */
